@@ -57,7 +57,6 @@ Built with a **stunning dark glassmorphism UI**, smooth animations, and **Gemini
 - **shadcn/ui**
 - **Radix UI**
 - **Framer Motion**
-- **@tanstack/react-query**
 
 ### Backend
 - **Supabase**
